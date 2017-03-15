@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1052175931524",
+    "firebase_url": "https://fir-meet.firebaseio.com",
+    "project_id": "fir-meet",
+    "storage_bucket": "fir-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052175931524:android:b8a716f77fed1d43",
+        "android_client_info": {
+          "package_name": "com.example.ua.firebasemeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052175931524-8hqod1r45ub2r44dteadtkqpruqkesqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ua.firebasemeet",
+            "certificate_hash": "25da6e174cfe68de09e6db414a2627132b334deb"
+          }
+        },
+        {
+          "client_id": "1052175931524-b0dicasqo5kclkgk8j63d9rjla5dki5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohSgRADYxnZ75v97tc8DPcAGN0BcyvHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052175931524-b0dicasqo5kclkgk8j63d9rjla5dki5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
